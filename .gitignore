@@ -1,0 +1,12 @@
+# Extracted proprietary blobs (large binaries — added after OTA extraction)
+# Initially empty, populated by extract-from-ota.sh or extract-blobs-adb.sh
+proprietary/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Editor
+.vscode/
+*.swp
+*~
