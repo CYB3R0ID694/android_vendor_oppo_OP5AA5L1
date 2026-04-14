@@ -1,0 +1,12 @@
+{
+    "switch": {
+        "scan": {
+            "disableFdNode": false,
+            "disableJpegNode": false,
+            "setAfmodeContinues": false
+        },
+        "ctm": {
+            "threadCnt0": 10
+        }
+    }
+}

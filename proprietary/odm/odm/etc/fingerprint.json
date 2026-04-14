@@ -1,0 +1,54 @@
+[
+    {
+        "project":"23205",
+        "name":"default",
+        "product":"CPH2651",
+        "device":"OP5AA5L1",
+        "model":"CPH2651",
+	"codename":"16",
+        "release" :"16",
+        "rsa_level": "R4T3",
+        "first_api_level":"35",
+        "base_oses": [
+            {
+              "16": "OPPO/CPH2651/OP5AA5L1:16/BP2A.250605.015/V.R4T3.1a51214_58879c_5726fb:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OPPO/CPH2651/OP5AA5L1:16/BP2A.250605.015/V.R4T3.1a51214_58879c_5726fb:user/release-keys"
+            }
+        ]
+    },
+    {
+        "project":"23205",
+        "name":"ru",
+        "product":"CPH2651RU",
+        "device":"OP5AA5L1",
+        "model":"CPH2651",
+	"codename":"16",
+        "release" :"16",
+        "first_api_level":"35"
+    },
+    {
+        "project":"23205",
+        "name":"in",
+        "product":"CPH2651IN",
+        "device":"OP5AA5L1",
+        "model":"CPH2651",
+	"codename":"16",
+        "release" :"16",
+        "rsa_level": "R4T3",
+        "first_api_level":"35",
+        "base_oses": [
+            {
+              "16": "OPPO/CPH2651IN/OP5AA5L1:16/BP2A.250605.015/V.R4T3.1a51214_58879c_5726fb:user/release-keys"
+            }
+        ],
+        "emer_base_oses": [
+            {
+              "16": "OPPO/CPH2651IN/OP5AA5L1:16/BP2A.250605.015/V.R4T3.1a51214_58879c_5726fb:user/release-keys"
+            }
+        ]
+    }
+]

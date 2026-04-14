@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RFTOOLKIT version="V2">
+    <GeneralMode>
+        <RAT name="NR5G">
+            <!-- UL channel only -->
+            <Band number="41">
+                <Channel type="Low">508002</Channel>
+                <Channel type="Mid">518598</Channel>
+                <Channel type="High">536994</Channel>
+            </Band>
+        </RAT>
+    </GeneralMode>
+
+    <GeneralMode mode="NPT">
+        <RAT name="NR5G">
+            <!-- UL channel only -->
+            <Band number="41">
+                <Channel type="Low">501204</Channel>
+                <Channel type="Mid">518600</Channel>
+                <Channel type="High">535995</Channel>
+            </Band>
+        </RAT>
+    </GeneralMode>
+</RFTOOLKIT>
